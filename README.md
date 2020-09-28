@@ -11,6 +11,7 @@ Adding few lines.
 
 For demo.
 
+Adding line after stashing.
 
 
 
