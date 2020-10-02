@@ -15,7 +15,9 @@ Adding line after stashing.
 
 Reserved.
 
-Adding a line for auto merge
+Adding a line for auto merge.
+
+Adding copyright .All rights reserved.
 
 To check the conflict in realwork
 
