@@ -13,7 +13,9 @@ For demo.
 
 Adding line after stashing.
 
-Reserved
+Reserved.
+
+Adding a line for auto merge
 
 
 
